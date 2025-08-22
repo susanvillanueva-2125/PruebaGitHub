@@ -1,3 +1,5 @@
 azul
 amarillo
 rojo
+verde
+naranja
